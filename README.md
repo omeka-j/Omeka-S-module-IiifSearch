@@ -1,7 +1,14 @@
-IIIF Search (module for Omeka S)
+IIIF Search (External) (module for Omeka S)
 ========================
 
 [IiifSearch] is a module to add the url of the search api to the manifest.
+
+Image
+------------
+
+![module.png](asset/img/module.png)
+
+![module_ja.png](asset/img/module_ja.png)
 
 Installation
 ------------
