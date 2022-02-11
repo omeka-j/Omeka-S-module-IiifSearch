@@ -1,0 +1,2 @@
+msgid "Property supplying the url of the search api"
+msgstr "IIIF検索APIのURLを格納したプロパティ"
